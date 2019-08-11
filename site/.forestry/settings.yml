@@ -16,7 +16,7 @@ sections:
   match: "**/*"
 - type: directory
   path: site/content/portfolio
-  label: Portfolio
+  label: UX & UI Portfolio
   create: all
   match: "**/*"
 - type: directory
@@ -26,17 +26,7 @@ sections:
   match: "**/*"
 - type: directory
   path: site/content/gdportfolio
-  label: Gdportfolio
-  create: all
-  match: "**/*"
-- type: directory
-  path: site/content/post
-  label: Post
-  create: all
-  match: "**/*"
-- type: directory
-  path: site/content/photography
-  label: Photography
+  label: Graphic Design
   create: all
   match: "**/*"
 upload_dir: site/static/uploads
