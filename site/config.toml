@@ -45,17 +45,22 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "UX & UI Portfolio"
-  url = "portfolio/"
+  url = "ux_portfolio/"
   home = true
 
   [[params.navlinks]]
   name = "Graphic Design"
-  url = "gdportfolio/"
-  
+  url = "graphic_design/"
+
   
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = "Resume"
+  url = "resume/"
+
 
   [[params.navlinks]]
   name = "Get in touch"
