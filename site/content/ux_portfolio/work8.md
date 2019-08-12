@@ -1,10 +1,10 @@
 +++
-showonlyimage = false
-draft = false
-image = "img/portfolio/ipad-air-2.jpg"
-date = "2016-11-05T19:59:22+05:30"
 title = "Name of the work 8"
 weight = 8
+date = "2016-11-05T19:59:22+05:30"
+showonlyimage = false
+draft = false
+image = "uploads/portfolio/ipad-air-2.jpg"
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
