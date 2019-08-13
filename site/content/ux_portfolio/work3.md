@@ -2,10 +2,9 @@
 title = "Name of the work 3"
 weight = 2
 date = "2016-11-05T19:44:32+05:30"
+draft = false
 image = "uploads/portfolio/gravity-paper.jpg"
 showonlyimage = false
-
-draft = false
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
